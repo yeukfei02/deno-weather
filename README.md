@@ -4,7 +4,7 @@ get current weather by city name, state and country code
 
 use ISO 3166 country codes for city name, state and country code, divided by comma
 
-```
+```ts
 import { getWeather } from "https://deno.land/x/deno-weather@v0.1.0/mod.ts";
 
 const weather = await getWeather("hong kong");
