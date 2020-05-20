@@ -5,3 +5,8 @@ Deno.test("getWeather", async () => {
   const result = await getWeather("london, uk");
   assert(result);
 });
+
+Deno.test("getWeatherXml", async () => {
+  const result = await getWeather("london, uk", "xml");
+  assert(result);
+});
