@@ -1,6 +1,6 @@
 # deno-weather
 
-https://deno.land/x/deno_weather
+[![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/deno_weather/mod.ts)
 
 get current weather by city name, state and country code
 
