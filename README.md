@@ -10,7 +10,7 @@ use ISO 3166 country codes for city name, state and country code, divided by com
 
 ```ts
 import { getWeather } from "https://deno.land/x/deno_weather/mod.ts";
-import { getWeather } from "https://x.nest.land/deno-weather@0.1.8/mod.ts";
+import { getWeather } from "https://x.nest.land/deno-weather/mod.ts";
 import { getWeather } from "https://denopkg.com/yeukfei02/deno-weather/mod.ts";
 ```
 
