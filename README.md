@@ -9,6 +9,7 @@ get current weather by city name, state and country code
 use ISO 3166 country codes for city name, state and country code, divided by comma
 
 ```ts
+// pick 1 to import
 import { getWeather } from "https://deno.land/x/deno_weather/mod.ts";
 import { getWeather } from "https://x.nest.land/deno-weather/mod.ts";
 import { getWeather } from "https://denopkg.com/yeukfei02/deno-weather/mod.ts";
