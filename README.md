@@ -2,15 +2,15 @@
 
 [![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/deno_weather/mod.ts)
 
+[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/deno-weather)
+
 get current weather by city name, state and country code
 
 use ISO 3166 country codes for city name, state and country code, divided by comma
 
 ```ts
 import { getWeather } from "https://deno.land/x/deno_weather/mod.ts";
-
-or 
-
+import { getWeather } from "https://x.nest.land/deno-weather@0.1.8/mod.ts";
 import { getWeather } from "https://denopkg.com/yeukfei02/deno-weather/mod.ts";
 ```
 
