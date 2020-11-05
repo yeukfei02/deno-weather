@@ -4,7 +4,7 @@
     "entry": "./mod.ts",
     "description": "get current weather by city name, state and country code",
     "homepage": "https://github.com/yeukfei02/deno-weather",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "files": [
       "*",
       "*/**/*"
